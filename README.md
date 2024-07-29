@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm [Agnik]
+## 👋 Hi there! I'm **Agnik**
 
 ### 💻 Web Developer & Graphics Designer
 

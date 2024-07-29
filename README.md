@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm [Your Name]
+## 👋 Hi there! I'm [Agnik]
 
 ### 💻 Web Developer & Graphics Designer
 
@@ -33,5 +33,3 @@ Feel free to reach out or connect with me through the following platforms:
 Let's build something amazing together! 🚀
 
 ---
-
-Feel free to customize this bio with your actual name, project links, and social media profiles.

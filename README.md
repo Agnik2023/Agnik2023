@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about crafting beautiful and functi
 - **JavaScript**: Adding interactivity and dynamic functionality.
 - **GitHub**: Managing and collaborating on code with version control.
 - **Graphics Design**: Creating stunning visuals and designs with tools like Adobe Illustrator and Photoshop.
-- **DevOps**: keen interest in devops. 🚀
+- **DevOps**: Keen interest in devops. 🚀
 
 ### 📫 Get in Touch
 

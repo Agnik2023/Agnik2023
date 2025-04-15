@@ -1,17 +1,17 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="centre">
 
 # 💫 About Me:
-<p style="font-size: 1.1em; line-height: 1.6;">
+<p style="font-size: 2 em; line-height: 1.6;">
   🔭 <strong>Currently working on:</strong><br>
   MERN stack builds, smart contracts (fingers crossed they hold!), and photo editing that'll make your jaw drop. 📸💻
 </p>
 
-<p style="font-size: 1.1em; line-height: 1.6;">
+<p style="font-size: 2 em; line-height: 1.6;">
   🤝 <strong>Looking to collaborate on:</strong><br>
   Hackathons, Web3 projects, open-source stuff, or anything cool that doesn’t involve a 6 AM wake-up call. 😅
 </p>
 
-<p style="font-size: 1.1em; line-height: 1.6;">
+<p style="font-size: 2 em; line-height: 1.6;">
   🙋‍♂️ <strong>Seeking help with:</strong><br>
   Taming backend bugs, understanding gas fees without tears, and leveling up my dev/design skills. ⚔️
 </p>

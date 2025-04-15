@@ -1,36 +1,34 @@
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="centre">
 
 # 💫 About Me:
-
-
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🔭 <strong>Currently working on:</strong><br>
-  🔨 MERN stack builds, 🔗 smart contracts (fingers crossed they hold!), and 📸 photo editing that'll make your jaw drop!
+  MERN stack builds, smart contracts (fingers crossed they hold!), and photo editing that'll make your jaw drop. 📸💻
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🤝 <strong>Looking to collaborate on:</strong><br>
-  💻 Hackathons, 🌐 Web3 projects, 📂 open-source contributions, or anything cool that doesn't involve a 6 AM wake-up call. 😴
+  Hackathons, Web3 projects, open-source stuff, or anything cool that doesn’t involve a 6 AM wake-up call. 😅
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🙋‍♂️ <strong>Seeking help with:</strong><br>
-  🐛 Taming backend bugs, 💸 understanding gas fees without tears, and ⚔️ leveling up my dev/design superpowers.
+  Taming backend bugs, understanding gas fees without tears, and leveling up my dev/design skills. ⚔️
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🌱 <strong>Currently learning:</strong><br>
-  ⚛️ Next.js, 📜 TypeScript, ⛓️ Blockchain basics, & 📊 DSA – basically, living the dev/anime life 24/7. 🍜👨‍💻
+  Next.js, TypeScript, Blockchain basics, and DSA—basically, living the dev/anime life. 🍜👨‍💻
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   💬 <strong>Ask me about:</strong><br>
-  🎨 Frontend tricks, ✨ design magic, ⚡ ECE survival tips, or which anime matches your coding vibe!
+  Frontend tricks, design magic, ECE survival tips, or which anime matches your coding vibe. 🎨✨
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   ⚡ <strong>Fun fact:</strong><br>
-  💸 I joined Web3 thinking I'd get rich. Now, I'm just the family blockchain explainer. 😂
+  I got into Web3 thinking I’d get rich. Now, I just explain blockchain to confused relatives. 😂💸
 </p>
 
 ## 🌐 Socials:

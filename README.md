@@ -1,36 +1,119 @@
-## 👋 Hi there! I'm **Agnik**
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="centre">
 
-### 💻 Web Developer & Graphics Designer
-
-Welcome to my GitHub profile! I'm passionate about crafting beautiful and functional web experiences using HTML, CSS, and JavaScript. With a solid foundation in web development and a keen eye for design, I enjoy bringing creative projects to life. 🎨
-
-### 🌟 Skills & Technologies
-
-- **HTML**: Structuring and creating the backbone of websites.
-- **CSS**: Designing visually appealing and responsive layouts.
-- **JavaScript**: Adding interactivity and dynamic functionality.
-- **GitHub**: Managing and collaborating on code with version control.
-- **Graphics Design**: Creating stunning visuals and designs with tools like Adobe Illustrator and Photoshop.
-- **DevOps**: Keen interest in devops. 🚀
-
-### 📫 Get in Touch
-
-Feel free to reach out or connect with me through the following platforms:
-
-- **[LinkedIn](https://www.linkedin.com/in/agnikdas23/)**: Connect with me professionally.
-- **[Twitter](https://twitter.com/AgnikDas1)**: Follow me for updates and insights.
-- **[Email](agnik252004@gmail.com)**: Drop me a line!
+# 💫 About Me:
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p align="left">
+  🔭 <strong>Currently working on:</strong><br>
+  🔨 MERN stack builds, 🔗 smart contracts (fingers crossed they hold!), and 📸 photo editing that'll make your jaw drop!
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://buymeacoffee.com/agnikdas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Agnik Das" /></a></p><br><br>
+<p align="left">
+  🤝 <strong>Looking to collaborate on:</strong><br>
+  💻 Hackathons, 🌐 Web3 projects, 📂 open-source contributions, or anything cool that doesn't involve a 6 AM wake-up call. 😴
+</p>
+
+<p align="left">
+  🙋‍♂️ <strong>Seeking help with:</strong><br>
+  🐛 Taming backend bugs, 💸 understanding gas fees without tears, and ⚔️ leveling up my dev/design superpowers.
+</p>
+
+<p align="left">
+  🌱 <strong>Currently learning:</strong><br>
+  ⚛️ Next.js, 📜 TypeScript, ⛓️ Blockchain basics, & 📊 DSA – basically, living the dev/anime life 24/7. 🍜👨‍💻
+</p>
+
+<p align="left">
+  💬 <strong>Ask me about:</strong><br>
+  🎨 Frontend tricks, ✨ design magic, ⚡ ECE survival tips, or which anime matches your coding vibe!
+</p>
+
+<p align="left">
+  ⚡ <strong>Fun fact:</strong><br>
+  💸 I joined Web3 thinking I'd get rich. Now, I'm just the family blockchain explainer. 😂
+</p>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Slee.prover) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/agnikdas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30114079) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AgnikDas1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agnik252004@gmail.com) 
+
+## 💻 Tech Stack
+<p align="centre">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify">
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Angular.js-E23237?style=flat&logo=angularjs&logoColor=white" alt="Angular.js">
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens&logoColor=white" alt="JWT">
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="jQuery">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" alt="NPM">
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101" alt="Socket.io">
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=WordPress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+</p>
+
+## 🛠️ Tools
+
+<p align="centre">
+  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" alt="Windows Terminal">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator">
+  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=adobe-lightroom&logoColor=white" alt="Adobe Lightroom">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop">
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat&logo=adobe-after-effects&logoColor=white" alt="Adobe After Effects">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white" alt="Blender">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
+</p>
 
 
+# 📊 GitHub Stats:
+<div align="center">
 
-<br>
-Let's build something amazing together! 🚀
+![](https://github-readme-stats.vercel.app/api?username=Agnik2023&theme=aura&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Agnik2023&theme=aura&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Agnik2023&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Agnik2023&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+### ✍️ Random Dev Quote
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=Agnik2023&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+</div>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Agnik2023&icon=2&color=2)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AgnikDas) 
+
+  

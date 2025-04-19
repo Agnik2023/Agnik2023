@@ -3,7 +3,7 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&pause=1000&color=D4af37&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer+%F0%9F%8C%90;;Open+Source+Contributor+%E2%9C%A8;Always+Eager+to+Learn+!+%F0%9F%91%8D" alt="Typing SVG" />
 </div>
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="centre">
+<img alt="Night Coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" align="centre">
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"> About Me :
 <p style="font-size: 2 em; line-height: 1.6;">

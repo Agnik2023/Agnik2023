@@ -1,6 +1,11 @@
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
+<h1 align="center">Hello 👋, myself Agnik Das</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D4af37&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer+%F0%9F%8C%90;;Open+Source+Contributor+%E2%9C%A8;Always+Eager+to+Learn+!+%F0%9F%91%8D" alt="Typing SVG" />
+</div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="centre">
 
-# 💫 About Me:
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"> About Me :
 <p style="font-size: 2 em; line-height: 1.6;">
   🔭 <strong>Currently working on:</strong><br>
   MERN stack builds, smart contracts (fingers crossed they hold!), and photo editing that'll make your jaw drop. 📸💻

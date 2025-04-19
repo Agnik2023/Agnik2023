@@ -1,36 +1,45 @@
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="centre">
+<img src="https://soumojitshomeblog.vercel.app/assets/LoadingLine.gif" style="width: 100%" >
+<h1 align="center">Hey 👋, Myself Agnik Das</h1>
+<h3 align="center">A passionate Web developer</h3>
 
-# 💫 About Me:
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=D4af37&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer+%F0%9F%8C%90;;Open+Source+Contributor+%E2%9C%A8;Always+Eager+to+Learn+!+%F0%9F%91%8D" alt="Typing SVG" />
+</div>
 
+<div align="centre">
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"style="max-width: 1024px;">
+</div>
+<br>
 
-<p align="left">
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="32" height="32"> About Me:
+<p style="font-size: 1.1em; line-height: 1.6;">
   🔭 <strong>Currently working on:</strong><br>
-  🔨 MERN stack builds, 🔗 smart contracts (fingers crossed they hold!), and 📸 photo editing that'll make your jaw drop!
+  MERN stack builds, smart contracts (fingers crossed they hold!), and photo editing that'll make your jaw drop. 📸💻
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🤝 <strong>Looking to collaborate on:</strong><br>
-  💻 Hackathons, 🌐 Web3 projects, 📂 open-source contributions, or anything cool that doesn't involve a 6 AM wake-up call. 😴
+  Hackathons, Web3 projects, open-source stuff, or anything cool that doesn’t involve a 6 AM wake-up call. 😅
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🙋‍♂️ <strong>Seeking help with:</strong><br>
-  🐛 Taming backend bugs, 💸 understanding gas fees without tears, and ⚔️ leveling up my dev/design superpowers.
+  Taming backend bugs, understanding gas fees without tears, and leveling up my dev/design skills. ⚔️
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   🌱 <strong>Currently learning:</strong><br>
-  ⚛️ Next.js, 📜 TypeScript, ⛓️ Blockchain basics, & 📊 DSA – basically, living the dev/anime life 24/7. 🍜👨‍💻
+  Next.js, TypeScript, Blockchain basics, and DSA—basically, living the dev/anime life. 🍜👨‍💻
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   💬 <strong>Ask me about:</strong><br>
-  🎨 Frontend tricks, ✨ design magic, ⚡ ECE survival tips, or which anime matches your coding vibe!
+  Frontend tricks, design magic, ECE survival tips, or which anime matches your coding vibe. 🎨✨
 </p>
 
-<p align="left">
+<p style="font-size: 1.1em; line-height: 1.6;">
   ⚡ <strong>Fun fact:</strong><br>
-  💸 I joined Web3 thinking I'd get rich. Now, I'm just the family blockchain explainer. 😂
+  I got into Web3 thinking I’d get rich. Now, I just explain blockchain to confused relatives. 😂💸
 </p>
 
 ## 🌐 Socials:
@@ -78,7 +87,11 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white" alt="Canva">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma">
 </p>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -114,6 +127,6 @@
 [![](https://visitcount.itsvg.in/api?id=Agnik2023&icon=2&color=2)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AgnikDas) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/AgnikDas) 
 
   
